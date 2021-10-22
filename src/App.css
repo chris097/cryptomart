@@ -1,14 +1,15 @@
-.app{
-  display: flex;
-}
 .nav-container{
   width: 250px;
   position: fixed;
   left: 0;
   top: 0;
   height: 100%; 
-  background-color: blue;
+  background-color: #1DA57A;
+  color: #fff;
 }
 .main{
-  margin-left: 260px;
+  margin-left: 250px;
+}
+.footer{
+  background-color: #1DA57A;
 }

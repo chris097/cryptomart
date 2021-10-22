@@ -13,7 +13,7 @@ const Navbar = () => {
           <Link to="/">Cryptomart</Link>
         </Typography.Title>
       </div>
-      <Menu style={{backgroundColor: 'blue'}}>
+      <Menu theme="dark">
         <Menu.Item icon={<HomeOutlined />}>
           <Link to="/">Home</Link>
         </Menu.Item>
